@@ -86,7 +86,7 @@ const CONFIG = {
       category: 'Programming',
       name: 'Codechef',
       key: 'cc',
-      url: 'https://www.codechef.com/users/vamp_niklaus',
+      url: 'https://www.codechef.com/users/sid1819',
       search: '/results?search_query={}',
       color: 'linear-gradient(135deg, #5D4037, #CFD8DC, #EF5350)',
       icon: 'codechef',
