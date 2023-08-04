@@ -16,7 +16,7 @@ const CONFIG = {
       category: 'Programming',
       name: 'Codeforces',
       key: 'c',
-      url: 'https://codeforces.com/profile/dustin_123',
+      url: 'https://codeforces.com/profile/Dustin_123',
       search: '/results?search_query={}',
       color: 'linear-gradient(135deg, #FFC107, #2196F3, #F44336)',
       icon: 'codeforces',
